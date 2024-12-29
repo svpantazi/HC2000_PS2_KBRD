@@ -1,6 +1,6 @@
 ## PS2 Keyboard adapter (with ATTiny2313/4313 and MT8808) for HC2000
 
-Mounts on PCB using the speaker mounting location and the original motherboard keyboard connector (see media folder for additional visuals).
+Low-profile mounting on PCB using the speaker location and the original motherboard keyboard connector (see media folder for additional visuals).
 
 Implements CP/M 2.2 launch (F1) and Basic disk load (F2) command macros. 
 
