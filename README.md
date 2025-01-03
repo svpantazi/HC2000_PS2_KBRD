@@ -22,7 +22,7 @@ Limitations and to do's:
   
 - PS2 Mouse functions are not implemented yet (it is not possible without additional wiring to signals on the motherboard)
   
-- Soft reset (e.g., by Ctrl-Alt-Delete) is possible with one additional wire to the apprporiate signal on the motherboard and a minor change in firmware
+- Soft reset (e.g., by Ctrl-Alt-Delete) is possible with one additional wire to the appropriate signal on the motherboard and a minor change in firmware
 
 
 
